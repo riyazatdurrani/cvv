@@ -1,0 +1,31 @@
+img{
+    border-radius: 50%;
+}
+
+hr{
+  border-style: dotted none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 10px;
+}
+body{
+  background-color:  #80ffd4;
+}
+
+.education{
+  background-color: blue;
+   width: 100%;
+  }
+
+  tr {
+  height: 50px;
+}
+
+.big{
+  margin-top:50px;
+}
+.a{
+  width: 30px;
+   height: 30px;
+     margin-top:50px;
+}
